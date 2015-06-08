@@ -1,0 +1,26 @@
+
+reflection: manual commits:
+     auto-saving - is mainly to prevent user error for not saving "commit" points
+     -have more control in manual commits
+
+
+command
+git diff <commitID> <commitID2>
+     
+
+reflection: multi-file commits
+     git is designed for coding unlike the other mentioned version control which is designed for writing "non-code" which most of the time requires just one file
+
+
+reflection: using git to view history
+     check bugs, or want to revert something back
+
+
+
+
+reflection: confidence from version control
+     more confident, gets you to check what causes an error
+
+
+reflection: how do you want to use git?
+-all my coding stuffs

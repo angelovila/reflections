@@ -1,0 +1,10 @@
+
+
+lesson_2_reflections.txt
+
+initializing a repository
+	it groups all the files in the folder so it can be commited as a group.
+	"initialize"
+	
+staging area
+staging area prepares what files you need to commit. more like a safety check for what files you need to commit
