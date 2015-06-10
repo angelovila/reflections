@@ -8,3 +8,25 @@ initializing a repository
 	
 staging area
 staging area prepares what files you need to commit. more like a safety check for what files you need to commit
+
+commit size
+we can add individual files to stage, to make sure it's just one logical change per commit
+separating the changes
+
+reflection: when to use branches
+-when adding totally new feature, creating new versions, really subjective
+-new piece of work
+-branches help as it starts a new thread in which to experiment and still have a working version
+
+
+visualizing with diagrams
+very helpful as to see the branches makes it easier to wrap head around
+
+
+merging two branches
+it combines both branches, the commits for both branches have been connected into one commit
+
+automatic vs manual merging
+git has a way to automatically merge files but if there confilicts has to be done manually
+
+git is smart enought to identify the differences and will do it automatically. but there will be instances where two branches will have conflicting changes and has to be reviewed manually
