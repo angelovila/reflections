@@ -9,3 +9,9 @@ manual vs. automatic pull
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 similar concept in commiting manually over automatically. more control, and be able to review if there are any changes made that would conflict to what you're doing
 
+
+forks, clones, and branches
+describe the differences between forks, clones, and branches when would you use one insstead of another
+forks - is mainly used for copying a repository in github into your own github repository
+clones - is copying a repository into your local, regardless if it's in github, or local to local
+branches - is to branch out to a new line of commits, used to work on projects and still keep a working version
