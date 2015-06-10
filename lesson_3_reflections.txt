@@ -1,1 +1,5 @@
 lesson 3 reflections
+
+Using remote repository
+When would you want to use a remote repository rather than keeping all your work local?
+mainly if i'm using a different computer or for big projects involving other people
