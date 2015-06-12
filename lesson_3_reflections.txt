@@ -20,3 +20,8 @@ branches - is to branch out to a new line of commits, used to work on projects a
 local copies of remote branches
 what is the benefit of having a copy of the last known state of the remote stored locally
 similar to commits, having a backup just in case changes made this time in github and want to rollback. works like a checkpoint
+
+
+collaboration using git and github
+how would you collaborate without using git or github? what would be easier, and what would be harder?
+would be exstremely difficult, probably use a spreadsheet with a request lists and a corresponding column if it's completed or not, even with notes. lost easier with github
